@@ -2,4 +2,5 @@
 ## CREATED USING REACT-NATIVE EXPO(REACT NATIVE FRAMEWORK), FIREBASE TO STORE DATA AS WELL AS BACKEND, HOOKS.
 
 To download APK:
-https://expo.dev/artifacts/6ddf0c1e-a46a-488d-89f2-de6e0214ae25
+https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40rohangore_1999/reactnative-signal-clone-d5c3dbf77a834c00a1eb9226f8565614-signed.apk
+
