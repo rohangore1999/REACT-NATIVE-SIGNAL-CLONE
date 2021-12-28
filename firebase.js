@@ -5,14 +5,15 @@ import "firebase/auth"
 // ref link ~ https://docs.expo.dev/guides/using-firebase/
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyAWGMnmlpXgvx151DKALh2BJzYrpFlksqI",
-    authDomain: "signal-clone-reactnative-52f5a.firebaseapp.com",
-    projectId: "signal-clone-reactnative-52f5a",
-    storageBucket: "signal-clone-reactnative-52f5a.appspot.com",
-    messagingSenderId: "457360676864",
-    appId: "1:457360676864:web:8e234d967875d286f3e0e5",
-    measurementId: "G-MSGYPVP8LX"
+    apiKey: "AIzaSyBN4WtJsUnXqyjrQ5dKD_4VUhWvcYtRIjM",
+    authDomain: "signal-clone-reactnative-5b9d2.firebaseapp.com",
+    projectId: "signal-clone-reactnative-5b9d2",
+    storageBucket: "signal-clone-reactnative-5b9d2.appspot.com",
+    messagingSenderId: "940086153089",
+    appId: "1:940086153089:web:318effb40364093ce4e280",
+    measurementId: "G-JCCFGG44WW"
   };
 
 let app;
